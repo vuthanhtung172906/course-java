@@ -50,3 +50,5 @@ o
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+{
+Ksrc/main/java/com/example/demo/security/CustomAuthenticationEntryPoint.java,5/0/5054b93561fea372e447ba4484b9af170a440f00

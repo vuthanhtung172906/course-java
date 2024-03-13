@@ -25,3 +25,23 @@
 2024-03-13T16:09:46.029+0700 INFO OrderController.submit - Items is ordered success by user tungvt17
 2024-03-13T16:15:46.560+0700 INFO OrderController.submit - Items is ordered success by user tungvt16
 2024-03-13T16:16:03.443+0700 INFO OrderController.submit - Username tungvt200 not found
+2024-03-13T22:36:54.200+0700 INFO Starting SareetaApplication on MacTung with PID 15259 (/Users/vuthanhtung/udacity/e-commerce/target/classes started by vuthanhtung in /Users/vuthanhtung/udacity/e-commerce)
+2024-03-13T22:36:54.208+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-03-13T22:36:54.210+0700 INFO No active profile set, falling back to default profiles: default
+2024-03-13T22:36:58.800+0700 DEBUG Filter 'JWTAuthenticationVerficationFilter' configured for use
+2024-03-13T22:43:09.327+0700 INFO UserController.createUser - called with username tungvt17
+2024-03-13T22:43:50.193+0700 INFO Starting SareetaApplication on MacTung with PID 16106 (/Users/vuthanhtung/udacity/e-commerce/target/classes started by vuthanhtung in /Users/vuthanhtung/udacity/e-commerce)
+2024-03-13T22:43:50.199+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-03-13T22:43:50.200+0700 INFO No active profile set, falling back to default profiles: default
+2024-03-13T22:43:54.965+0700 DEBUG Filter 'JWTAuthenticationVerficationFilter' configured for use
+2024-03-13T22:43:55.626+0700 INFO Started SareetaApplication in 5.817 seconds (JVM running for 7.293)
+2024-03-13T22:44:14.812+0700 INFO OrderController.submit - Username tungvt200 not found
+2024-03-13T22:44:39.668+0700 INFO UserController.createUser - called with username tungvt17
+2024-03-13T22:44:39.885+0700 INFO UserController.createUser - New user tungvt17 created
+2024-03-13T22:50:02.272+0700 INFO Starting SareetaApplication on MacTung with PID 16639 (/Users/vuthanhtung/udacity/e-commerce/target/classes started by vuthanhtung in /Users/vuthanhtung/udacity/e-commerce)
+2024-03-13T22:50:02.280+0700 DEBUG Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2024-03-13T22:50:02.282+0700 INFO No active profile set, falling back to default profiles: default
+2024-03-13T22:50:07.047+0700 DEBUG Filter 'JWTAuthenticationVerficationFilter' configured for use
+2024-03-13T22:50:07.901+0700 INFO Started SareetaApplication in 6.07 seconds (JVM running for 7.624)
+2024-03-13T22:50:30.371+0700 INFO UserController.createUser - called with username tungvt17
+2024-03-13T22:50:30.582+0700 INFO UserController.createUser - New user tungvt17 created
